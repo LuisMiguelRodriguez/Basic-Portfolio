@@ -30,6 +30,8 @@ footer {
   padding-top:10px;
   padding-bottom:10px;
   clear:both;
+  position: absolute;
+  bottom:0;
 }
 
 section {
@@ -60,11 +62,6 @@ aside{
   margin-right: auto;
 }
 
-.border {
-  border: black solid 5px;
-}
-
-
 #top-center {
   width:650px;
   height: auto;
@@ -72,15 +69,7 @@ aside{
   color:white;
 }
 
-.right {
-  float:right;
-}
-
-.left {
-  float:left;
-}
-
-.teal{
+.submit-button{
   background-color: #4aaaa5;
   padding:10px 20px;
   color:white;
