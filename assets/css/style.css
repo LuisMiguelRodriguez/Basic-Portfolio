@@ -15,6 +15,16 @@ body {
   border-bottom: #cccccc solid 5px;
 }
 
+#top a {
+  font-family: sans-serif;
+  text-decoration: : none;
+}
+
+#top a:link {
+  font-family: sans-serif;
+  text-decoration: : none;
+}
+
 #content {
   width: 650px;
   height:auto;
